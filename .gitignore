@@ -1,0 +1,16 @@
+*target
+*.settings
+/test-output
+*.project
+*.classpath
+*logs
+*.checkstyle
+bin
+com.cherrypicks.ar.web/Gruntfile.js.bak
+com.cherrypicks.arme.web/grunt
+com.cherrypicks.arme.web/npm-debug.log
+pico-cms-web/dist/
+pico-cms-web/.tmp/
+pico-cms-web/bower_components/
+pico-cms-web/node_modules/
+pico-cms-web/test/bower_components
